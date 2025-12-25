@@ -16,7 +16,7 @@
 <h3>1.1 Clone the repo and cd CrossDNA/crossdna.</h3>
 <pre>
 git clone https://github.com/ychuest/Cross.git
-cd cd Cross/crossdna
+cd Cross/crossdna
 </pre>
 
 
